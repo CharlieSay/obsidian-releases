@@ -2272,12 +2272,19 @@
     "screenshot": "dark.jpg",
     "modes": ["dark", "light"]
   },
-	{
+  {
     "name": "OverCast",
     "author": "IxBlazarxI",
     "repo": "IxBlazarxI/Obsidian-Theme-OverCast",
     "screenshot": "Thumbnail.jpg",
     "modes": ["dark"]
-  }
+  },
+  {
+  "name": "Cobalt2",
+  "author": "charliesay",
+  "repo": "charliesay/Cobalt2-Obsidian-Theme",
+  "screenshot": "screenshots/screenshot.png",
+  "modes": ["dark"]
+  },
 ]
 
